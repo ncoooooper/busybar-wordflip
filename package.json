@@ -2,7 +2,7 @@
   "name": "busybar-wordflip",
   "private": true,
   "version": "0.1.0",
-  "description": "WordFlip",
+  "description": "Learn 50 everyday Spanish words with reversible flashcards and review intervals based on recall.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {
