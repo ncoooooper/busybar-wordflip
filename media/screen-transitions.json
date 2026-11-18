@@ -1,0 +1,47 @@
+{
+  "app": "busybar-wordflip",
+  "sha256": "bcf139ab89795d6344e4fc609538d5f1eab0e401d2580ea6d108a622a7b2c094",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "reveal-water",
+        "grade-and-advance"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "ok"
+        ],
+        [
+          "down",
+          "ok"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        8,
+        14,
+        42
+      ],
+      "rear_frames": 22,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}

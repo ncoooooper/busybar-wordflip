@@ -4,6 +4,20 @@ Learn 50 everyday Spanish words with reversible flashcards and review intervals 
 
 Keep a small review queue next to your keyboard. Missing a word puts it back in a minute, while words you recall easily stop using up time in the same session.
 
+## Screen transitions
+
+Turn the card from the word to its meaning, then grade the answer. The fold follows the change of face.
+
+![WordFlip front display. Turn the card from the word to its meaning, then grade the answer. The fold follows the change of face.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![WordFlip rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Test a word before looking
 
 1. Read the language direction above the prompt. **ES > EN** asks for the English word. Say your answer before clicking the wheel.
@@ -36,6 +50,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
