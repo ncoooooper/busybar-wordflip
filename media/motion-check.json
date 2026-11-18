@@ -1,0 +1,18 @@
+{
+  "tested_tree": "a63cc366058f276f931e760b5e4e00a045f58190",
+  "app": "wordflip",
+  "firmware": "1.3.1",
+  "keys": [
+    "ok",
+    "down",
+    "ok"
+  ],
+  "frames": 80,
+  "distinct_frames": 17,
+  "exit": "App io.ncoooooper.wordflip exited: finished; heap peak 85.0 of 128 KiB",
+  "video": "media/controls.mp4",
+  "rendered": [
+    "media/front.png",
+    "media/back.png"
+  ]
+}
