@@ -14,5 +14,25 @@
   "rendered": [
     "media/front.png",
     "media/back.png"
-  ]
+  ],
+  "sha256": "90832cbff64e2136e6b3967c604181b197de259a33203e2e86dfdb090af9869a",
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "On-device controls",
+    "keys": [
+      [
+        "ok"
+      ],
+      [
+        "down",
+        "ok"
+      ]
+    ],
+    "frames": 128,
+    "distinct_by_flow": [
+      7,
+      13
+    ],
+    "exit": "App io.btype.wordflip exited: finished; heap peak 90.1 of 128 KiB"
+  }
 }
